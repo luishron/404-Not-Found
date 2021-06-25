@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-[![404 - Desktop](https://raw.githubusercontent.com/luishron/404-Not-Found/main/resources/404-desktop.png "404 - Desktop")](https://luishron.github.io/404-Not-Found/ "404 - Desktop")
+
   <h3>
     <a href="https://luishron.github.io/404-Not-Found/">
       Demo
